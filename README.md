@@ -1,4 +1,4 @@
-# Système de recommandation de film
+# 🍿Système de recommandation de film🍿
 
 Projet effectué dans le cadre de ma formation Data Analyst au sein de la Wild Code School.
 
