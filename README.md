@@ -4,7 +4,7 @@ Projet effectué dans le cadre de ma formation Data Analyst au sein de la Wild C
 
 [Capture d'écran de l'application en marche](https://github.com/000molly/projet2/blob/main/screenshot_app.png)
 
-Cette application recommande des films en fonction d'un film choisi par l'utilisateur.
+Cette application recommande des films (sorti après 2015) en fonction d'un film choisi par l'utilisateur.
 Elle présente également les Nouveautés, des Statistiques et l'Histoire du cinéma. 
 
 ## Techno utilisées
