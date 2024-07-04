@@ -16,6 +16,7 @@ from sklearn.neighbors import NearestNeighbors
 from sklearn.preprocessing import StandardScaler
 from datetime import datetime
 
+#init streamlit
 st.set_page_config(page_title="MovieMatch", page_icon="🎦", layout = "wide")
 
 ###Variables
@@ -74,7 +75,6 @@ def resize(url, size=(342, 513)):
     img = Image.open(BytesIO(res.content))
     img = img.resize(size, Image.LANCZOS)
     return img
-
 
 def actor_column(df, film_title):
     specific_film_df = df[df['primaryTitle'] == film_title]
