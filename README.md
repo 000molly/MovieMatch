@@ -8,7 +8,9 @@ Cette application recommande des films (sorti après 2015) en fonction d'un film
 Elle présente également les Nouveautés, des Statistiques et l'Histoire du cinéma. 
 
 ## Techno utilisées
-Python, Pandas, Streamlit, Machine Learning, Plotly 
+Python, Pandas, Streamlit, Machine Learning, Plotly
+
+## Bases de données
 
 ## Librairies prérequises
 ```
