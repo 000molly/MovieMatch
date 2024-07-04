@@ -7,7 +7,8 @@ Projet effectué dans le cadre de ma formation Data Analyst au sein de la Wild C
 Cette application recommande des films en fonction d'un film choisi par l'utilisateur.
 Elle présente également les Nouveautés, des Statistiques et l'Histoire du cinéma. 
 
-## Fait avec Python & Streamlit
+## Techno utilisées
+Python, Pandas, Streamlit, Machine Learning, Plotly 
 
 ## Librairies prérequises
 ```
